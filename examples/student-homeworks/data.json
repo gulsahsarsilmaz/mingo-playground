@@ -1,0 +1,22 @@
+[
+  {
+    "student": {
+      "name": "Gulsah Sarsilmaz"
+    },
+    "type": "homework",
+    "homework": {
+      "name": "Homework 1"
+    },
+    "score": 80
+  },
+  {
+    "student": {
+      "name": "John Doe"
+    },
+    "type": "homework",
+    "homework": {
+      "name": "Homework 2"
+    },
+    "score": 40
+  }
+]

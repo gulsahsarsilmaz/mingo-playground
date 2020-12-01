@@ -1,0 +1,10 @@
+{
+  "name": "typescript",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "@types/node": "^14.14.10",
+    "mingo": "^3.1.0",
+    "mongodb-language-model": "^1.6.1"
+  }
+}
